@@ -19,6 +19,6 @@ Twine automates the deployment of real-time architecture by utilizing developer-
 
 [Leeya Davis](https://leeyadavis.dev/) _Software Engineer_, Brooklyn, NY
 
-[Spencer Wightman](https://maddywoodrum.dev/) _Software Engineer_, Christchurch, NZ
-
 [Maddy Woodrum](https://spencerwightman.com/) _Software Engineer_, New York, NY
+
+[Spencer Wightman](https://maddywoodrum.dev/) _Software Engineer_, Christchurch, NZ
