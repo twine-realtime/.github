@@ -1,3 +1,6 @@
 # Twine Real-Time
 
-Blah blah blah
+<div style="text-align:center">
+  <img src="/images/twine-logo.png" alt="twine logo">
+</div>
+
