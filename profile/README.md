@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="200px" src="/images/twine-logo.png" alt="twine logo">
-</div>
-
 ## Overview
 
 Twine is a scalable and open-source RaaS (Real-time as a Service), designed to reliably abstract away the complexity of real-time communication for modern web applications.
