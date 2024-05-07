@@ -6,8 +6,8 @@ Twine automates the deployment of real-time architecture by utilizing developer-
 
 ## Using Twine
 
-- Refer to the [deployment documentation](https://github.com/twine-realtime/deploy) for deploying a Twine service on your AWS account.
-- Refer to the documentation of the [client](https://github.com/twine-realtime/client-library) and [server](https://github.com/twine-realtime/server-library) libraries to connect your web application to your Twine service.
+- Refer to the [deployment documentation](https://twine-realtime.github.io/docs/deployment) for deploying a Twine service on your AWS account.
+- Refer to the documentation of the [client](https://twine-realtime.github.io/docs/client-library) and [server](https://twine-realtime.github.io/docs/server-library) libraries to connect your web application to your Twine service.
 
 ## Twine Team
 
